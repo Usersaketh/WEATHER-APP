@@ -2,6 +2,10 @@
 
 A robust weather application with both console and web interface modes, featuring detailed weather information including air quality data.
 
+Preview:
+
+<img src="assets/weather-banner.png" alt="Weather Fetcher" width="100%"/>
+
 ## Features
 
 ### Robust Error Handling
